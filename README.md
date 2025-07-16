@@ -67,7 +67,7 @@ This exploratory analysis revealed important patterns such as:
 
 ## 🔗 View the Jupyter Notebook
 
-📘 `Adhoc Insight Using Python.ipynb` – A step-by-step walkthrough of data import, exploration, and visualization.
+📘📘 [`Adhoc Insight Using Python.ipynb`](Adhoc%20Insight%20Using%20Python.ipynb) – A step-by-step walkthrough of data import, exploration, and visualization.
 
 
 
